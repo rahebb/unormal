@@ -1,0 +1,2 @@
+def Calculate():
+    num_A = input("number 1 : ")
