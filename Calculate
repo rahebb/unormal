@@ -1,2 +1,4 @@
 def Calculate():
     num_A = input("number 1 : ")
+    num_B = input("number 2 : ")
+    X = input("writing calculate - > * + - : ")
